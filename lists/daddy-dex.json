@@ -2414,7 +2414,7 @@
     {
       "name": "DDEX Token",
       "symbol": "DDEX",
-      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "address": "0xB993c6A36f11D457408f54A3219A3661b51677bD",
       "chainId": 2000,
       "decimals": 18,
       "logoURI": ""
@@ -2424,6 +2424,113 @@
       "symbol": "DAI",
       "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
       "chainId": 2000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/DAI.svg"
+    },
+
+
+
+    {
+      "name": "WDOGE Token",
+      "symbol": "WDOGE",
+      "address": "0x5D2abFa04eEEB3abCf141353eF39C2DedDC42114",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "WWDOGE Token",
+      "symbol": "WWDOGE",
+      "address": "0x2465086E721F68761e3275A54802C985FFd0D727",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/WWDOGE.svg"
+    },
+    {
+      "name": "Dogechain Token",
+      "symbol": "DC",
+      "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/DC.svg"
+    },
+    {
+      "name": "Doge Eat Doge",
+      "symbol": "OMNOM",
+      "address": "0x94178570A9d642F7421C050cf577e1a243f01e52",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/OMNOM.svg"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x9A9E3B7EC323737592aE2fb657e05bAE9491345A",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/USDC.svg"
+    },
+    {
+      "name": "ETH",
+      "symbol": "ETH",
+      "address": "0xF6D5D5e5Cbf43053407D3f41eff4c4AfCCe30193",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/ETH.svg"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xF7726B130669C03DBe6D50293c934bc37766C6be",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/BTCB.svg"
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x906D05F0E9b70Ae04378D6D64f5Dbf985c06368C",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/WBNB.svg"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x2220EaAf930E19DAB071155af20449651bd45e9D",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/USDT.svg"
+    },
+    {
+      "name": "YODE Token",
+      "symbol": "YODE",
+      "address": "",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/YODE.svg"
+    },
+    {
+      "name": "Kibble",
+      "symbol": "KIB",
+      "address": "0x230e4C424FB11dbFDa86D923B0BD1d2c0d47100D",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/KIB.svg"
+    },
+    {
+      "name": "DDEX Token",
+      "symbol": "DDEX",
+      "address": "0xB993c6A36f11D457408f54A3219A3661b51677bD",
+      "chainId": 568,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0xf2fC6426688771F4dCA5eFeD7C9C3484FA65520B",
+      "chainId": 568,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DaddyDexOrg/daddy-dex-token-list/main/assets/DAI.svg"
     }

@@ -1,7 +1,7 @@
 {
   "name": "daddy-token-lists",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "Token list of daddy dex.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
